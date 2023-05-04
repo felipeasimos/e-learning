@@ -1,0 +1,4 @@
+source_type,source,quote
+2,Clarice Lispector,Brasília... Uma prisão ao ar livre
+2,Be yourself; everyone else is already taken.,Oscar Wilde
+0,,Olá

@@ -1,0 +1,4 @@
+name,price,link
+Monitor Ultrawide,109852,https://www.girafa.com.br/p/monitor-lg-ultrawide-29-fhd-freesync-hdr10-hdmi-29wl500-b-75hz-5ms.htm
+Teclado USB,9013,https://www.kalunga.com.br/prod/teclado-com-fio-usb-logitech-k120-resistente-a-respingos-e-layout-abnt2-cx-1-un/671733/?pcID=32&utm_source=zoom&utm_medium=cpc&utm_campaign=094ed4283221446e8359c82e8d0ce89d
+SSD 256GB,11431,https://www.mercadolivre.com.br/disco-solido-interno-oscoo-on800-m2-2280-sata-256gb/p/MLB19719608
