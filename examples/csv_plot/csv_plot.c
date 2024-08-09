@@ -28,15 +28,15 @@ int main(int argc, char* argv[1]) {
   }
 
   double range_x1, range_x2, step_x;
-  if( !sscanf(argv[2], "%lf", &range_x1) ) {
+  if( !sscanf(argv[2], "%F", &range_x1) ) {
     help();
     return 1;
   }
-  if( !sscanf(argv[3], "%lf", &range_x2) ) {
+  if( !sscanf(argv[3], "%F", &range_x2) ) {
     help();
     return 1;
   }
-  if( !sscanf(argv[4], "%lf", &step_x) ) {
+  if( !sscanf(argv[4], "%F", &step_x) ) {
     help();
     return 1;
   }
